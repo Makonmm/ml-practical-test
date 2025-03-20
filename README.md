@@ -18,7 +18,7 @@ A tarefa exigia a implementação de pré-processamento de dados, análise explo
 2. Instale as dependências:
 
    ```shell
-   Entre na pasta do projeto e digite no terminal:
+   cd ml-practical-test
    pip install -r requirements.txt
 
    ```
@@ -79,19 +79,25 @@ O objetivo era basicamente classificar o syndrome_id para cada imagem com base n
 
 * Métricas: AUC, F1-Score, ROC, Top-k Accuracy, Accuracy
 
-* O melhor resultado alcançado foi KNN results:
+* O melhor resultado alcançado foi:
 
     Euclidean: 
-    [AUC] --> 0.9478, 
-    [F1-Score] --> 0.9012, 
-    [Accuracy] --> 0.9061,
-    [TOP-K Accuracy] --> 0.9252
+    * [AUC]  0.9478
+
+    * [F1-Score] 0.9012
+
+    * [Accuracy]  0.9061
+
+    * [TOP-K Accuracy] 0.9252
 
     Cosine: 
-    [AUC] --> 0.9565, 
-    [F1-Score] --> 0.9193, 
-    [Accuracy] --> 0.9218,
-    [TOP-K Accuracy] -->  0.9374
+    * [AUC] 0.9565
+
+    * [F1-Score] 0.9193
+
+    * [Accuracy] 0.9218
+
+    * [TOP-K Accuracy] 0.9374
 
 5. Inferência em relação aos resultados:
 
