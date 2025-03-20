@@ -7,6 +7,26 @@ A tarefa exigia a implementação de pré-processamento de dados, análise explo
 
 ---
 
+## Como instalar o projeto
+
+
+1. Clone o projeto
+
+   ```shell
+   git clone https://github.com/Makonmm/ml-practical-test.git
+   ```
+2. Instale as dependências:
+
+   ```shell
+   Entre na pasta do projeto e digite no terminal:
+   pip install -r requirements.txt
+
+   ```
+
+3. Agora é só executar o main.py:
+
+---
+
 ## Descrição do Conjunto de Dados
 
 O conjunto de dados está armazenado em um arquivo pickle nomeado `mini_gm_public_v0.1.p`. Ele consiste em dados hierárquicos estruturados da seguinte forma:
@@ -88,7 +108,7 @@ O objetivo era basicamente classificar o syndrome_id para cada imagem com base n
 
 * No fim, o modelo foi capaz de classificar as imagens com o algorítmo KNN e os resultados obtidos foram satisfatórios.
 
-## Images
+## Imagens
 ![Distribuição dos dados](images/distribution.png)
 ![Embeddings](images/embeddings-tsne.png)
 ![Distribuição pós balanceamento](images/distributionSMOTE.png)
