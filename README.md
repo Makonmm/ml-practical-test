@@ -91,7 +91,7 @@ O objetivo era basicamente classificar o syndrome_id para cada imagem com base n
 ## Images
 ![Distribuição dos dados](images/distribution.png)
 ![Embeddings](images/embeddings-tsne.png)
-![Distribuição pós balanceamento](images/distribution-SMOTE.png)
+![Distribuição pós balanceamento](images/distributionSMOTE.png)
 ![Curva ROC com a métrica "cosine"](images/ROC-cosine.png)
 ![Curva ROC com a métrica "euclidean"](images/ROC-euclidean.png)
 ![Comparação de desempenho entre as métricas](images/comparison.png)
