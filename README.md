@@ -1,4 +1,4 @@
-# Esse projeto foi desenvolvido como teste para a vaga de Desenvolvedor de Machine Learning da empresa Apollo Solutions
+# Esse projeto foi desenvolvido como teste para a vaga de Desenvolvedor de Machine Learning da empresa Apollo.
 
 ## Visão Geral
 
